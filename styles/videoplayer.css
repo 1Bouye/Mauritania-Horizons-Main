@@ -1,0 +1,27 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Adjust max-width as needed */
+    margin: 0 auto;
+  }
+  
+  .video {
+    width: 100%;
+    display: block;
+    border-radius: 8px; /* Example: Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Example: Shadow effect */
+  }
+  
+  /* Example animation */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .video-container {
+    animation: fadeIn 1s ease-in-out; /* Apply animation */
+  }

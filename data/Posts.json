@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "slug": "visit-adrar",
+        "image": "/images/places/adrar.jpeg",
+        "category": "Adrar",
+        "title": "Découvrez des oasis et l’ œil d’Afrique",
+        "author": "",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p> Circuit de 10 jours. <br /> <br />  Embarquez pour une expédition captivante de 10 jours à la découverte du cœur de l'Adrar et du magnifique Banc D'Arguin. Plongez dans la riche culture et les merveilles naturelles de la Mauritanie en parcourant les sites du patrimoine mondial de l'UNESCO, des rues animées de Nouakchott à la sereine dune d'Azoueiga. Offrez-vous des délices culinaires et savourez chaque jour le petit-déjeuner, le déjeuner et le dîner. Avec un transport fluide, des guides experts et un hébergement confortable, concentrez-vous uniquement sur la magie de votre environnement. <br /> <br /> dDécouvrez des couchers de soleil à couper le souffle au sommet de la dune d'Azoueiga, passez des nuits sous les étoiles, explorez d'anciennes peintures rupestres et visitez le légendaire Fort du Saganne. Chaque journée allie aventure, culture et détente pour une expérience de voyage authentique et inoubliable. <br /> <br /> Jour 1 :<br /><br /> Accueil chaleureux à Nouakchott, suivi d'une visite de la ville. <br /> <br /> Jour 2 : <br /><br />Montez la dune d'Azoueiga pour un magnifique coucher de soleil, avec une nuit magique sous les étoiles.  <br /> <br /> Jour 3 : <br /><br />Voyage à travers la charmante Vallée Blanche, déjeuner et nuit à Terjit. <br /> <br /> Jour 4 : <br /><br />Explorez les peintures rupestres d'Agrour, visitez le Forte du Saganne et séjournez à Chinguitty. <br /> <br /> Jour 5 : <br /><br />Visitez l'oasis de Wadan, prenez le thé à l'oasis de Townechort et explorez Galb Richatt et la ville antique d'Ouadane. <br /> <br /> Jour 6 : <br /><br />Émerveillez-vous devant Ben Amera, le plus grand monolithe d'Afrique, et campez en pleine nature.<br /> <br /> Jour 7 : <br /><br />Voyage inoubliable dans le train le plus long du monde, retour à Choum. <br /> <br /> Jour 8 : <br />Explorez Nouadhibou et détendez-vous sur la plage du Cap Blanc. <br /> <br /> Jour 9 : <br /><br />Aventure au Parc National d'Arguin, en passant par Chami, déjeuner au Cap Tarfarit et nuit à Iwik.<br /> <br />Jour 10 : <br /><br />Retour panoramique à Nouakchott le long de la magnifique</p>",
+        "images": [
+            "/images/places/a1.jpg",
+            "/images/places/a2.jpg",
+            "/images/places/a3.jpg",
+            "/images/places/a4.jpg",
+            "/images/places/a6.jpg",
+            "/images/places/a5.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "visit-snim",
+        "image": "/images/places/sim.jpg",
+        "category": "Fer",
+        "title": "L’adrar et le train",
+        "author": "Bruno Texira",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p> <br />Jour 1 <br /> Vol international pour Nouakchot * Après la formalité, accueil à l'aéroport de Nouakchott. Repas et hébergement<br /> Jour 2<br /> Nouakchott 4h-260km Akjoujt, une pose pour le repas après azweiga pour une nuit de bivouac. <br /> <br /> Jour 3<br /> L’oasis  de terjitt pour le Repas et Baignade, La palmeraie de Terjit fait partie des sites incontournables à voir lors d’un voyage en Mauritanie. Et pour cause, elle est considérée par beaucoup comme étant la plus belle oasis de l’Adrar et l’une des plus importantes de la région. Arrivée à chinguitti pour visiter la bibliothèque privée et voir la coucher de soleil, de visiter ce ksar saharien, les jardins <br /> <br /> Jour 4<br /> Arrivée à Le ksar de Wadâne, (Ouadâne) qui a été fondée, dit-on, la même année que Tichîtt (1141), tiendrait son nom du mot arabe signifiant «deux lits de rivières» (wadân). Les précisions selon lesquelles ces deux oueds seraient l’oued des dattes et l’oued des sciences sont tout à l’honneur de la cité. Visiter la vieille ville et la structure de richat. <br /> <br /> JOUR 5<br /> Arrivons à atar visiter le marché acheter les nécessaires <br /> <br /> Jour 6<br /> Arrivé à zoueratt pour prendre le train vers nouadibou <br /> <br /> Jour 7<br /> Arrivé au nouadibou, visiter Le Cap Blanc, ou Ras Nouadhibou, est le point final du cap sur lequel se situe la ville de Nouadhibou. C'est un endroit unique car c'est le seul endroit au monde où les phoques moines forment une grande colonie. Ce sont par ailleurs une espèce rare à trouver.<br /> <br /> Jour 8<br /> Nouakchott - Aéroport International Nouakchott-Oumtounsy * Nous mettons une chambre à disposition pour se reposer, prendre une douche et préparer ses affaires pour le départ. <br /> <br /></p>",
+        "images": [
+            "/images/places/t1.jpg",
+            "/images/places/t2.jpg",
+            "/images/places/t3.jpg",
+            "/images/places/t4.jpg",
+            "/images/places/t5.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "visit-ouadane",
+        "image": "/images/places/wedan.jpg",
+        "category": "Adrar",
+        "title": "Découvrez les patrimoines en mauritanie",
+        "author": "Bruno Texira",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p> Circuit de 16 jours <br /> <br /> Embarquez pour une odyssée extraordinaire de 16 jours à travers la Mauritanie, où chaque instant est une merveille à découvrir. Des rues animées de Nouakchott aux trésors antiques de Oualata, plongez-vous dans la riche tapisserie de culture, d'histoire et de merveilles naturelles. <br /> <br /> Jour 1 : Arrivée à Nouakchott  <br /> <br /> Commencez votre aventure par un accueil chaleureux et commencez à explorer cette terre fascinante. <br /> <br /> Jour 2 : Nouakchott à Kiffa - La Route de l'Espoir <br /> <br /> Voyagez le long de la légendaire Route de l'Espoir jusqu'à Kiffa, où anticipation et émerveillement vous attendent. <br /> <br /> Jour 3 : Kiffa à Nema – Capitale du Hodh Al Charghi <br /> <br /> Découvrez la capitale animée du Hodh Al Charghi, pleine de culture et d'histoire. <br /> <br /> Jour 4 : Nema à Oualata - Un voyage dans le temps <br /> <br /> Entrez dans la charmante ville de boue de Oualata, chargée d'histoire et de légende.<br /> <br /> Jour 5 : Découvrez l'énigmatique montagne des doigts Explorez les majestueuses montagnes d'Al Makhrougatt, en forme de doigts et d'éléphants.<br /> <br /> Jour 6 : Tichitt - Exploration de la ville UNESCO Découvrez les maisons historiques en pierre et les rues labyrinthiques de Tichitt, classée au patrimoine mondial de l'UNESCO.<br /> <br /> Jour 7 : Voyage au village de Lekheb Découvrez le charme pittoresque du village de Lekheb et sa communauté accueillante. <br /> <br /> Jour 8 : Rachid, Tidjigja, Adrar - Trésors Anciens Plongez dans la riche histoire de Rachid et Tidjigja avant de passer une nuit sous les étoiles du désert à Adrar. <br /> <br /> Jour 9 : Exploration des Oasis et Chinguitty Aventurez-vous à travers l'oasis à couper le souffle d'Adrar jusqu'à la ville historique de Chinguitty. <br /> <br /> Jour 10 : Découvrez les rues anciennes de Ouadane Explorez les rues historiques de Ouadane et émerveillez-vous devant la merveille géologique de l'Œil de l'Afrique.<br /> <br /> Jour 11 : Monolithe de Ben Amera et ville d'Atar Soyez témoin de l'impressionnant monolithe de Ben Amera et plongez dans la culture dynamique d'Atar. <br /> <br /> Jour 12 : Voyage en train jusqu'à Nouadhibou Vivez le frisson d'un voyage en train vers la côte de Nouadhibou. <br /> <br /> Jour 13 : Explorez les charmes de Nouadhibou Découvrez le port traditionnel de Nouadhibou et détendez-vous sur les rives immaculées du Cap Blanc. <br /> <br /> Jour 14 : Voyage au Parc National d'Arguin Découvrez la beauté immaculée du Cap Tafarit et du Parc National d'Arguin.  <br /> <br /> Jour 15 : Naviguez avec l'Imraguen Embarquez pour une aventure à la voile avec le peuple Imraguen, en vous imprégnant de la sérénité de la mer. <br /> <br /> Jour 16 : Dunes de Mahariyat et retour à Nouakchott Terminez votre voyage par une route panoramique vers les majestueuses dunes de Mahariyat avant. <br /> <br /></p>",
+        "images": [
+            "/images/places/p1.jpg",
+            "/images/places/p2.jpg",
+            "/images/places/p3.jpg",
+            "/images/places/p4.jpg",
+            "/images/places/p5.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "visit-arguin",
+        "image": "/images/places/mraguin.jpg",
+        "category": "Adrar",
+        "title": "National Park",
+        "author": "Bruno Texira",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p>Cette région, qui s'étend entre Nouakchott et Nouadhibou, est habitée par le peuple Imraguen, des pêcheurs qualifiés utilisant uniquement des méthodes traditionnelles et durables. <br /><br /> C'est un site du patrimoine mondial de l'UNESCO et regorge de toutes sortes d'oiseaux, des flamants roses et pélicans aux oiseaux de rivage migrateurs, et c'est le plus grand site de nidification d'Afrique de l'Ouest.<br /><br />Destinations : <br /><br /> jour1 banc d’arguin <br /><br /> jour2 iwike ( whale skeleton)<br /><br /> jour3 Nouakchott ( port de pêche, marché du chameaux , mosquée de saudi, marché capital, ) <br /><br /> </p>",
+        "images": [
+            "/images/places/n1.jpg",
+            "/images/places/n2.jpg",
+            "/images/places/n3.jpg",
+            "/images/places/n4.jpg",
+            "/images/places/n5.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "visit-nouakchott",
+        "image": "/images/places/nktt.jpg",
+        "category": "Nouakchott",
+        "title": "Nouakchott tour",
+        "author": "Bruno Texira",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p>Découvrez les trésors de la capitale mauritanienne ! Lors de notre visite de la ville, vous découvrirez tous les sons et images de la capitale mauritanienne. Ici, rien n'est mis en scène, rien n'est embelli, mais beaucoup de choses sont inconnues et fascinantes.<br /><br /> Lorsque les pirogues artistiquement peintes du Port de Pêche rentrent chez elles avec leur prise du jour, on peut assister à l'agitation pendant que les bateaux sont amarrés, les poissons sont découpés et les prix se marchandent. <br /><br /> Le marché des chameaux est l’un des plus importants d’Afrique de l’Ouest. Qu'il s'agisse d'une visite au jardin de la ville ou d'un thé en soirée à la plage, faites-en l'expérience lors de notre visite de Nouakchott. Nous vous recommandons également de prendre un taxi à Nouakchott. A l'équivalent de 25 centimes, c'est tout à fait abordable et pourtant une balade inoubliable. <br /><br /> Nous vous guiderons à travers les quartiers de la ville, notamment : Tevragh Zeina, Capitale, Sebkha. Le transport et la nourriture sont inclus dans le forfait. <br /><br /> </p>",
+        "images": [
+            "/images/places/nn.jpg",
+            "/images/places/nn1.jpg",
+            "/images/places/nn2.jpg",
+            "/images/places/nn3.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "slug": "Théodore-monod",
+        "image": "/images/places/ttt.jpg",
+        "category": "Nouakchott",
+        "title": "Le circuit du professeur Théodore monod",
+        "author": "Bruno Texira",
+        "authordeg": "Lead Product Owner",
+        "authorImg": "avatar.jpg",
+        "publishedDate": "August 9, 2022",
+        "description": "<p> <br />Jour 1 <br /> Une accueillir chaleureux. Après la formalité. transfert et l’installation à l’hôtel.<br /> Jour 2<br /> Nous quittons Nouakchott vers akjoujet prendre une pause avec le repas, une traversant les dunes passif massif de l’amatlich pour une nuit de bivouac.<br /> <br /> Jour 3 <br />L’ Adrar occidentale, le chenal de Tifoujar et chinguitti. Nous traversons l’adrar occidental pour découvrirez la passe de tifoujar, la vallée blanche( l’oued lebyade), toungade ( pépite village), mhaireth ( une vallée) visiter les très belles palmeraie, au fond de l’oasis il une guelta ( piscine 🏊 naturelle) et joindre chinguitti.<br /> <br /> Jour 4 <br /> Découvrir les cités caravanier ouadane et chinguitti. Nous traversons ouadane par les dunes de warane passons par la village de tewnechérte, arrivons à ouadane pour une belle visite de la vieille ville ( visite guidée par un guide local qui explique tout l’histoire de la cité). Nuit de bivouac. <br /> <br /> JOUR 5 <br /> Guelb richat et el beyyed, haut lieux de la préhistoire saharienne, l’histoire des zones expliquant par le guide.<br /> <br /> Jour 6<br /> Entre les dunes de maghteir et la falaise de l’adrar vers aderg. Nuit de bivouac.<br /> <br /> Jour 7 <br /> Nous quittons aderg vers atar la capitale de la région de l’adrar passons par chemchan ( l’école traditionnelle de cheikh Mohamed vadel).<br /> <br /> Jour 8 <br /> La voie de chemin de fer et le Ben amira; Ben amira le monolithe le plus grand dans l’Afriqueet le troisième dans le monde d’une hauteur plus de 600m. <br /> <br /> JOUR 9 <br /> Parc national est un patrimoine mondial classé par l’Unesco.<br /><br /> JOUR 10 <br /> Rentre à nouakchott, nous mettons une chambre à disposition pour se reposer, prendre une douche et préparer vos affaires pour le départ. <br /> <br /><br /><br /></p>",
+        "images": [
+            "/images/places/t5.jpg",
+            "/images/places/tt2.jpg",
+            "/images/places/tt3.jpg",
+            "/images/places/tt4.jpg",
+            "/images/places/tt5.jpg"
+        ]
+    }
+]

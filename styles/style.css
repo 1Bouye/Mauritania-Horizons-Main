@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;    /* Center vertically */
+    height: 100vh;          /* Full height of the viewport */
+  }
+  
+  .centered-div {
+    padding: 20px;
+    background-color: lightblue;
+  }
